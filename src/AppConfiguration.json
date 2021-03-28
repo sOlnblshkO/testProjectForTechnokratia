@@ -1,0 +1,22 @@
+{
+    "server": "https://watchlater.cloud.technokratos.com/get/array",
+    "type": 3,
+    "activated": 0,
+    "blocked": 1,
+    "paused": 2,
+    "all": 3,
+    "actionItems": [
+        {
+            "id": 2,
+            "title": "Приостановлен"
+        },
+        {
+            "id":0,
+            "title": "Подписка активна"
+        },
+        {
+            "id":1,
+            "title": "Заблокирован"
+        }
+    ]
+}

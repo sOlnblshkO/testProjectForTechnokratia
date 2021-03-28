@@ -1,0 +1,25 @@
+.header-ul{
+    background-color: white;
+    height: 30px;
+    margin-top: 0px;
+    padding-top: 16px;
+    align-items: center;
+}
+
+.header-li {
+    display: inline;
+    margin-right: 36px;
+}
+    
+a {
+    padding: 8px;
+    text-decoration: none;
+}
+    
+.active{
+    border-bottom: 2px solid Blue;
+}
+
+.unactive{
+    color: #D0C9D6;
+}
