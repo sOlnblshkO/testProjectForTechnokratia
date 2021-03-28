@@ -18,4 +18,5 @@ const ShowModal = ({ user, active, setActive }) => {
     )
 }
 
+
 export default ShowModal
